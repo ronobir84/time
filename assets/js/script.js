@@ -14,7 +14,7 @@ function clockApp() {
         use24Hour: true,
         showQuote: true,
         currentTheme: 'dark',
-        mainClockTimezone: 'Asia/Sylhet',
+        mainClockTimezone: 'Europe/Dublin',
         mainClockName: 'Bangladesh',
         locations: [
             { name: 'Bangladesh', timezone: 'Asia/Dhaka', time: 0 },
@@ -46,7 +46,7 @@ function clockApp() {
             { url: 'https://www.linkedin.com/in/ronobir-das-75b275289/' },
             { url: 'https://www.facebook.com/priashdas.priashdas.75' },
             { url: 'https://www.instagram.com/ronobir_das01/' },
-
+            
         ],
         themes: themes,
         timezones: timezones,
