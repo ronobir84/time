@@ -268,6 +268,7 @@ const timezones = [
             { name: 'Asia/Colombo (GMT+5:30)', zone: 'Asia/Colombo' },
             { name: 'Asia/Damascus (GMT+2)', zone: 'Asia/Damascus' },
             { name: 'Asia/Dhaka (GMT+6)', zone: 'Asia/Dhaka' },
+            { name: 'Asia/Dhaka (GMT+6)', zone: 'Asia/Sylhet' },
             { name: 'Asia/Dili (GMT+9)', zone: 'Asia/Dili' },
             { name: 'Asia/Dubai (GMT+4)', zone: 'Asia/Dubai' },
             { name: 'Asia/Dushanbe (GMT+5)', zone: 'Asia/Dushanbe' },
