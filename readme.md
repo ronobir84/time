@@ -1,9 +1,7 @@
 # Cronos
 
 Cronos is a beautifully designed, customizable clock application built with HTML, Tailwind CSS, and Alpine.js. It features a main clock with customizable names and timezones, additional location clocks, and various themes to suit your preferences. The application also includes settings for displaying seconds, using a 24-hour format, and showing motivational quotes. 
-
-# Live Demo 
-Check the live demo here - [Live Demo](https://hasinhayder.github.io/cronos/)
+ 
 
 ## Features
 
@@ -17,12 +15,7 @@ Check the live demo here - [Live Demo](https://hasinhayder.github.io/cronos/)
 - **Memorization**: Remembers your current settings for future visits.
 - **Alarm**: Set alarms with pause functionality.
 
-## Keyboard Shortcuts
-
-- **Settings**: Press `alt/option` + `s` to open the settings panel.
-- **Notes**: Press `alt/option` +`n` to open the notes section.
-- **Websites**: Press `alt/option` +`b` to open the quick access websites panel.
-- **Close Settings**: Press `Escape` key to close these sections.
+ 
 
 ## Technologies Used
 
